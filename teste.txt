@@ -1,0 +1,2 @@
+Linha criada que será removida.
+Essa é a linha que não será deletada
