@@ -1,4 +1,2 @@
 Linha sobrescrevendo a linha anterior
-Essa é a linha que não será deletada
-
 Adicionando linha na nova branch
